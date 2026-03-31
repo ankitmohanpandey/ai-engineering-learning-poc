@@ -17,8 +17,8 @@ Track your AI Engineering learning journey here. Update weekly!
 
 | Metric | Count |
 |--------|-------|
-| **Weeks Completed** | 0 / 8 |
-| **Topics Mastered** | 0 / 30 |
+| **Weeks Completed** | 1 / 8 |
+| **Topics Mastered** | 2 / 30 |
 | **Projects Built** | 0 / 12 |
 | **LLM API Calls Made** | 0 |
 | **Lines of Code Written** | 0 |
