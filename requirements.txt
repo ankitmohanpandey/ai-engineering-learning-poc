@@ -1,0 +1,65 @@
+# Core LLM Providers
+google-generativeai==0.3.2
+openai==1.6.1
+anthropic==0.8.1
+
+# Memory Management
+mem0ai==0.0.8
+
+# LangChain Ecosystem
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-core==0.1.10
+langchain-google-genai==0.0.5
+langchain-openai==0.0.2
+
+# Vector Databases
+pinecone-client==3.0.0
+chromadb==0.4.22
+qdrant-client==1.7.0
+
+# Embeddings & Text Processing
+sentence-transformers==2.2.2
+tiktoken==0.5.2
+transformers==4.36.2
+
+# Data Processing
+numpy==1.26.2
+pandas==2.1.4
+
+# Environment & Configuration
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# HTTP & API
+requests==2.31.0
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Utilities
+tenacity==8.2.3
+ratelimit==2.2.1
+python-json-logger==2.0.7
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+ipywidgets==8.1.1
+
+# Development Tools
+black==23.12.1
+pylint==3.0.3
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Monitoring & Logging
+loguru==0.7.2
+
+# Optional: Streamlit for UI
+streamlit==1.29.0
+
+# Optional: FastAPI for APIs
+fastapi==0.108.0
+uvicorn==0.25.0
