@@ -56,6 +56,7 @@ Follow these steps to get started:
 ### 1. Environment Setup
 
 ### Part II: Core Knowledge
+4. [AI Agent POC Setup](handbook/00-ai-agent-poc-setup/README.md) ⭐ **NEW**
 5. [AI & Machine Learning Fundamentals](handbook/01-foundations/README.md)
 6. [Large Language Models (LLMs)](handbook/02-llm-fundamentals/README.md)
 7. [Prompt Engineering](handbook/03-prompt-engineering/README.md)
