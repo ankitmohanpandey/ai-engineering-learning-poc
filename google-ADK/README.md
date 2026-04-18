@@ -174,7 +174,7 @@ Cutting-edge ADK features:
 
 ```bash
 # Clone repository
-git clone https://github.com/ankitmohanpandey/google-adk-handbook.git
+git clone https://github.com/ankitmohanpandey/google-ADK.git
 cd google-adk-handbook
 
 # Install ADK and dependencies
